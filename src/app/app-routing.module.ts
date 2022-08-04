@@ -5,7 +5,7 @@ import { ClientLayoutComponent } from './layouts/client-layout/client-layout.com
 
 const routes: Routes = [
   {
-    path: '',
+    path: 'client',
     component: ClientLayoutComponent,
     children: [
       {
