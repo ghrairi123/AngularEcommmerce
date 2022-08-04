@@ -464,7 +464,6 @@ body:not(.loaded) * {
   -webkit-transition: all 0s !important;
   transition: all 0s !important;
   text-decoration: none;
-  font-size: small;
 }
 
 .page-wrapper {
